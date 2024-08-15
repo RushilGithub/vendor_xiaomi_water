@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),cloud)
+ifeq ($(TARGET_DEVICE),water)
 
 endif
